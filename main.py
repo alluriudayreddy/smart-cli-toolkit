@@ -1,6 +1,10 @@
-def menu():
-    print("[1] Option 1")
-    print("[2] Option 2")
-    print("[0] Exit the program")
+def show_menu():
+    print("\nSMART CLI TOOLKIT")
+    print("1. Calculator")
+    print("2. Password Generator")
+    print("3. Unit Converter")
+    print("4. Random Number Generator")
+    print("5. Notes Tool")
+    print("6. Exit")
 
-menu()
+show_menu()
